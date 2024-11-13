@@ -33,3 +33,15 @@ Follow these steps to install and run the project:
    ```bash
    composer install
    ```
+4. Set up the environment file:
+   ```bash
+   cp .env.example .env
+   ```
+
+##Usage
+
+Once the server is running, access the application in your web browser at http://localhost:8000.
+
+##Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
