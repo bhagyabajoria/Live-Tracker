@@ -38,10 +38,10 @@ Follow these steps to install and run the project:
    cp .env.example .env
    ```
 
-##Usage
+## Usage
 
 Once the server is running, access the application in your web browser at http://localhost:8000.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
