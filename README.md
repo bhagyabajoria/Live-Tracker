@@ -1,6 +1,6 @@
 # Live Tracker for PUBG/BGMI Tournament Stream
 
-Live Tracker is an application designed to efficiently track and monitor live data streams. It provides users with real-time updates and insights, making it ideal for various use cases such as tracking events, monitoring systems, and more.
+Welcome to the Live Tracker project! This application is designed to provide efficient and real-time monitoring of live data streams, perfect for tracking performance during PUBG/BGMI tournaments and streams.
 
 ## Features
 
@@ -23,11 +23,11 @@ Follow these steps to install and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhagyabajoria/Live-Tracker.git
+   git clone https://github.com/bhagyabajoria/Live-Tracker-for-Pubg-Bgmi-Stream
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Live-Tracker
+   cd Live-Tracker-for-Pubg-Bgmi-Stream
    ```
 3. Install the required dependencies:
    ```bash
