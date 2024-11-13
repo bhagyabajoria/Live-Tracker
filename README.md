@@ -24,3 +24,12 @@ Follow these steps to install and run the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhagyabajoria/Live-Tracker.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+cd Live-Tracker
+   ```
+3. Install the required dependencies:
+   ```bash
+composer install
+   ```
