@@ -27,9 +27,9 @@ Follow these steps to install and run the project:
    ```
 2. Navigate into the project directory:
    ```bash
-cd Live-Tracker
+   cd Live-Tracker
    ```
 3. Install the required dependencies:
    ```bash
-composer install
+   composer install
    ```
