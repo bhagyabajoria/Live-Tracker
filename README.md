@@ -40,7 +40,7 @@ Follow these steps to install and run the project:
 
 ## Usage
 
-Once the server is running, access the application in your web browser at http://localhost:8000.
+Once the server is running, access the application in your web browser at http://localhost:80.
 
 ## Contributing
 
